@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9df0cb24-54f3-4675-b703-b3fbe1f98ba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Basics/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Basics/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Basics/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Basics/Coordinate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Basics/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Basics/Temperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Main4.executor": "Run",
+    "Application.Mian5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
