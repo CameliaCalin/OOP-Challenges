@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9df0cb24-54f3-4675-b703-b3fbe1f98ba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP_Basics/Coordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Basics/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Basics/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/College2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Addition2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Polygon2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +56,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.Main3.executor": "Run",
     "Application.Main4.executor": "Run",
+    "Application.Main5.executor": "Run",
     "Application.Mian5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
