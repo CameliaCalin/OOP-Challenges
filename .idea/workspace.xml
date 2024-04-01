@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9df0cb24-54f3-4675-b703-b3fbe1f98ba1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/College.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/College2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Completing_OOP/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Animal3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Addition2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Polygon2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_Advance/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Advance/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Advance/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Advance/Addition2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Advance/Addition2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Advance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Advance/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Advance/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Advance/Polygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Advance/Polygon2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Advance/Polygon2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
